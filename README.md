@@ -19,3 +19,9 @@ you should now be able to play the game
 
 
 HAVE FUN!!!!!
+
+
+you need to have python installed on your computer to run this game
+
+you can download python from here the installation is pretty fast and straight foward
+https://www.python.org/downloads/
